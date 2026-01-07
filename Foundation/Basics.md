@@ -1,5 +1,3 @@
-Må raskt dokumentere og forklare kort de forskjellige komamndoene brukt her:
-
 # Lecture 1
 
 philipef@networksecuritylab:~$ ls
